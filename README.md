@@ -88,9 +88,10 @@ python src/quantum_multiplier.py
 - Performance Graphs
 - Switching Activity Analysis
 
-## Author
+## Contributors
 
-Varsha V
+Shivaranjani 
+Sreya V
 
 Electronics and Communication Engineering
 
